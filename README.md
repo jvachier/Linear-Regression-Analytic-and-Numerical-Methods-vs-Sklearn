@@ -9,3 +9,5 @@ Goal: Salary prediction as function of the number of years of experience using u
 
 References: 
 - https://www.kaggle.com/code/jvachier/linear-regression
+
+(Additionally, this code is also available on my Kaggle profile at https://www.kaggle.com/code/jvachier/lr-analytic-numerical-methods-vs-sklearn)
