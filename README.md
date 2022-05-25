@@ -1,8 +1,6 @@
 # Linear-Regression-Analytic-and-Numerical-Methods-vs-Sklearn
 
-# Linear Regression: Analytic and Numerical Methods vs Sklearn
-
-Author: jvachier <br>
+Author: jeremy vachier <br>
 Creation date: May 2022  <br>
 Publication date: May 2022 <br>
 
